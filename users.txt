@@ -1,0 +1,8 @@
+
+User accounts for \\LAPTOP-C79CGFAU
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           Guest                    
+Pedro Ferreira           WDAGUtilityAccount       
+The command completed successfully.
+
